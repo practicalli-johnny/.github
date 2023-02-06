@@ -31,6 +31,6 @@ _Where relevant, provide additional instructions required to reproduce test resu
 
 - [ ] Code follows the [Practicalli style guides](https://practical.li/clojure/coding-guidelines/)
 - [ ] Add / update doc-strings where relevant
-- [ ] Changelog entry describing all notable changes & JIRA ticket (add `Skip-Changelog` label to PR if entry not required)
+- [ ] Changelog entry describing all notable changes & GitHub ticket (add `Skip-Changelog` label to PR if entry not required)
 - [ ] Unit tests to cover code changes and integration tests run successfully
 - [ ] Request one or more of the team review the PR
